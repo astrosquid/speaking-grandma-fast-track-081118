@@ -17,4 +17,7 @@ def speak_to_grandma(dialog)
   lower = dialog.lower
   
   if dialog != upper
+    "HUH?! SPEAK UP, SONNY!"
+  else
     ""
+    
