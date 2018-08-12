@@ -13,5 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(dialog)
-  caps = dialog.upcase
-  low
+  upper = dialog.upcase
+  lower = dialog.lower
+  
+  if dialog != upper
+    ""
