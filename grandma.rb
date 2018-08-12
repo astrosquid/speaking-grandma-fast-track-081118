@@ -14,7 +14,7 @@
 
 def speak_to_grandma(dialog)
   upper = dialog.upcase
-  lower = dialog.lower
+  lower = dialog.lowcase
   
   if dialog == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
